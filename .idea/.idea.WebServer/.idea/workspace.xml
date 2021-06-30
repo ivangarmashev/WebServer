@@ -4,7 +4,13 @@
     <projectFile>WebServer/WebServer.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860e2dbc-cefc-4dbd-8932-9a8f8315b13b" name="Default Changelist" comment="" />
+    <list default="true" id="860e2dbc-cefc-4dbd-8932-9a8f8315b13b" name="Default Changelist" comment="firstCommmit">
+      <change afterPath="$PROJECT_DIR$/WebServer/Controllers/MessengerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebServer/Message.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebServer/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebServer/WebServer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebServer/WebServer.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,17 +19,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/WebServer/Controllers/ApiController.cs" />
+      <option value="$PROJECT_DIR$/WebServer/Controllers/MessangerController.cs" />
+      <option value="$PROJECT_DIR$/WebServer/Message.cs" />
+      <option value="$PROJECT_DIR$/WebServer/Controllers/MessengerController.cs" />
+    </changedPaths>
+  </component>
   <component name="ProjectId" id="1ud7mk6Bauj2diD3YDJjcgh4xox" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.WebServer">
@@ -67,6 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1624983773456</updated>
       <workItem from="1624983834206" duration="115000" />
+      <workItem from="1624983992940" duration="1995000" />
+      <workItem from="1625051895094" duration="3777000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1624983908033</created>
@@ -75,13 +97,20 @@
       <option name="project" value="LOCAL" />
       <updated>1624983908034</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="f">
+      <created>1624984010072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624984010072</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -93,10 +122,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="f" />
+    <option name="LAST_COMMIT_MESSAGE" value="f" />
   </component>
 </project>
